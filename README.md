@@ -4,4 +4,4 @@ These challenges are to help train you in javascript arrays and methods with a s
 
 The challenges are broken into two parts focusing on different methods. The completed challenges are in a seperate branch called 'solutions'. 
 
-Open the files in the browser of your choice and use the console.
+Edit the files in the IDE of your choice, and then run and test your solutions in a browser console.
